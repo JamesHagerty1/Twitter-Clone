@@ -1,1 +1,5 @@
-Betting on Expo for cross-platform frontend because Bluesky uses it.
+- I am using Expo for a cross-platform frontend. It's warty, but I'm willing to
+  bet on it because Bluesky uses it, too.
+
+- I will use vanilla Golang for my backend because I want to keep backend
+  development simple and painless as I can.

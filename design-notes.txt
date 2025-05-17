@@ -1,5 +1,5 @@
 - I am using Expo for a cross-platform frontend. It's warty, but I'm willing to
   bet on it because Bluesky uses it, too.
 
-- I will use vanilla Golang for my backend because I want to keep backend
-  development simple and painless as I can.
+- I will use Laravel/PHP for my backend because it will make it easiest to get
+  an MVP ready.
